@@ -1,0 +1,54 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:ghostwhite;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:#222;
+    color: white;
+    padding: 40;
+    text-align: center;
+}
+footer{
+    background-color:#222 ;
+    color: white;
+    padding: 17;
+    text-align: center;
+}
+
+h1{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+   padding: 20;
+   text-align:center;
+   text-decoration: wavy;
+   text-shadow: 0em;
+   
+}
+
+section{
+    background: white;
+    padding: 30;
+    border-radius: 8;
+    margin: 25;
+    
+}
+h2{
+    color: #222;
+}
+
+ul{
+    padding: 0%;
+    list-style: disc;
+}
+
+ul li {
+    background: #eee;
+    list-style:lower-alpha;
+    padding: 8;
+    margin: 5 0;
+
+}
+
